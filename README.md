@@ -10,7 +10,7 @@ Advertise your Nixpkgs-packaged projects with these badges!
 - [x] Add previews
 - [x] Inform [NixOS Artwork](https://github.com/NixOS/nixos-artwork/)
 - [ ] Get it on [Awesome Nix](https://github.com/nix-community/awesome-nix/)
-- [ ] Add small badges
+- [x] ~~Add small badges~~ I shrunk the badges instead.
 
 ## Showcase
 ### Light
