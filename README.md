@@ -7,6 +7,9 @@ Advertise your Nixpkgs-packaged projects with these badges!
 - [x] Make some badges
 - [x] Post it on NixOS discourse
 - [x] Fix font issues
+- [x] Add previews
+- [ ] Inform [NixOS Artwork](https://github.com/NixOS/nixos-artwork/)
+- [ ] Get it on [Awesome Nix](https://github.com/nix-community/awesome-nix/)
 
 ## Showcase
 ### Light
