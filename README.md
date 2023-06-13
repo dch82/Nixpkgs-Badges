@@ -18,7 +18,7 @@ Advertise your Nixpkgs-packaged projects with these badges!
 #### To Embed
 Add this to your `.md` file:
 ```
-[![](https://raw.githubusercontent.com/dch82/Nixpkgs-Badges/main/nixpkgs-badge-light.svg)](https://search.nixos.org/packages?show={{PACKAGENAME}})
+[![](https://raw.githubusercontent.com/dch82/Nixpkgs-Badges/main/nixpkgs-badge-light.svg)](https://search.nixos.org/packages?size=1&show={{PACKAGENAME}})
 ```
 
 ### Dark
@@ -27,5 +27,5 @@ Add this to your `.md` file:
 #### To Embed
 Add this to your `.md` file:
 ```
-[![](https://raw.githubusercontent.com/dch82/Nixpkgs-Badges/main/nixpkgs-badge-dark.svg)](https://search.nixos.org/packages?show={{PACKAGENAME}})
+[![](https://raw.githubusercontent.com/dch82/Nixpkgs-Badges/main/nixpkgs-badge-dark.svg)](https://search.nixos.org/packages?size=1&show={{PACKAGENAME}})
 ```
